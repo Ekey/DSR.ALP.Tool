@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSR.Unpacker", "DSR.Unpacker\DSR.Unpacker.csproj", "{563F7E2A-29A8-4FA1-AFF1-7AA419D0D00A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{563F7E2A-29A8-4FA1-AFF1-7AA419D0D00A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{563F7E2A-29A8-4FA1-AFF1-7AA419D0D00A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{563F7E2A-29A8-4FA1-AFF1-7AA419D0D00A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{563F7E2A-29A8-4FA1-AFF1-7AA419D0D00A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03C490AA-074F-46C7-BF77-BAC800339D8E}
+	EndGlobalSection
+EndGlobal

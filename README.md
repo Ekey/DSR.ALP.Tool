@@ -1,4 +1,4 @@
-# DSR.APL.Tools :see_no_evil:
+# DSR.ALP.Tools :see_no_evil:
 Tools for extract and repack ALP archive from game [Devil Slayer - Raksasi / 斩妖Raksasi](https://store.steampowered.com/app/1016600/)
 
 # DSR.Unpacker
